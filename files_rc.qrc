@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="redimensiona">
+    <file>images/cil-move.png</file>
+  </qresource>
+  <qresource prefix="fechar">
+    <file>images/icons8-delete-24.png</file>
+  </qresource>
+  <qresource prefix="minimizar">
+    <file>images/minimize.png</file>
+  </qresource>
+  <qresource prefix="voltar_maximizado">
+    <file>images/volta_full_screen.png</file>
+  </qresource>
+</RCC>
